@@ -1,6 +1,6 @@
 {
     "name": "test-marketplace",
-    "owner": "Gina H",
+    "owner": { "name": "Definitely Trustworthy Author" },
     "plugins": [
         {
             "name": "qa-kit",
